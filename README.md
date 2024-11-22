@@ -28,7 +28,7 @@ CK+ is a dataset of emotion-labelled face images. Images displaying the followin
 - Happiness
 - Disgust
 
-### ~~[Get the dataset here.](https://drive.google.com/drive/folders/1k25gHUeSJmQNheuFgip5xTnjcDmV3TZv?usp=sharing)~~
+### ~~Get the dataset here.~~
 ~~(Login to Google Drive using BITSmail).~~
 (sorry, dataset not available anymore)
 
